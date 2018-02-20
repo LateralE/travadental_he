@@ -1671,9 +1671,11 @@ body {
 }
 .cid-qCTiccjkeL .mbr-timeline-title {
   color: #2f8cff;
+  text-align: right;
 }
 .cid-qCTiccjkeL .mbr-timeline-text {
   color: #232323;
+  text-align: right;
 }
 .cid-qKb7SrBiAN {
   padding-top: 60px;
@@ -2124,6 +2126,9 @@ body {
 }
 .cid-qDJqTOJAYS H4 {
   color: #2e2e2e;
+}
+.cid-qDJqTOJAYS .panel-text {
+  text-align: right;
 }
 .cid-qKcIZNkdHq {
   padding-top: 90px;
