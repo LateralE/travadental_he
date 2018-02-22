@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TravaDental",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -58,7 +58,7 @@
         "main": true,
         "title": "TravaDental - ישראל",
         "meta_descr": "",
-        "header_custom": "\n<!-- Google Analytics --><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KQW2ZGB');</script><!-- End Google Tag Manager --><!-- Google Analytics END -->\n<script src=\"https://f.formoid.net/Sj3.lightbox.js\"></script>\n<script src=\"https://f.formoid.net/Sj6.lightbox.js\"></script>\n",
+        "header_custom": "\n<!-- Google Analytics --><!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KQW2ZGB');</script><!-- End Google Tag Manager --><!-- Google Analytics END -->\n\n<!-- Hotjar Tracking Code for https://travadental.co.il/ -->\n<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:790237,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>\n\n<script src=\"https://f.formoid.net/Sj3.lightbox.js\"></script>\n<script src=\"https://f.formoid.net/Sj6.lightbox.js\"></script>\n\n",
         "footer_custom": "",
         "html_before": ""
       },
