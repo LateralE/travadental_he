@@ -21,10 +21,10 @@ body {
 }
 .display-1 {
   font-family: 'Open Sans', sans-serif;
-  font-size: 4rem;
+  font-size: 3.5rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 5.6rem;
 }
 .display-2 {
   font-family: 'Open Sans', sans-serif;
@@ -61,9 +61,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.8rem;
+    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1382,6 +1382,7 @@ body {
 }
 .cid-qKcNSFm25S .mbr-section-subtitle {
   color: #232323;
+  text-align: center;
 }
 .cid-qKcNSFm25S .carousel-item {
   -webkit-justify-content: center;
@@ -1580,6 +1581,9 @@ body {
   color: #232323;
 }
 .cid-qKcNSFm25S B {
+  color: #2f8cff;
+}
+.cid-qKcNSFm25S .mbr-section-subtitle B {
   color: #2f8cff;
 }
 .cid-qCTiccjkeL {
@@ -2566,7 +2570,7 @@ body {
   }
 }
 .cid-qKcwbTwciw P {
-  text-align: right;
+  text-align: left;
   color: #2e2e2e;
 }
 .cid-qKcwbTwciw H5 {
