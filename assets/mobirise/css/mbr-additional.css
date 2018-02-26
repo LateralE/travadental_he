@@ -1584,7 +1584,10 @@ body {
   color: #2f8cff;
 }
 .cid-qKcNSFm25S .mbr-section-subtitle B {
-  color: #2f8cff;
+  color: #232323;
+}
+.cid-qKcNSFm25S .mbr-section-subtitle SPAN {
+  color: #ff3366;
 }
 .cid-qCTiccjkeL {
   padding-top: 90px;
@@ -1739,7 +1742,7 @@ body {
 }
 .cid-qKocRcuYoo .price-figure {
   font-weight: 700;
-  color: #232323;
+  color: #2f8cff;
 }
 .cid-qKocRcuYoo .price-value {
   font-weight: 700;
@@ -1752,6 +1755,7 @@ body {
 }
 .cid-qKocRcuYoo .plan-title DIV {
   text-align: center;
+  color: #232323;
 }
 .cid-qKocRcuYoo UL {
   text-align: center;
@@ -1761,6 +1765,9 @@ body {
 }
 .cid-qKocRcuYoo I {
   color: #ff3366;
+}
+.cid-qKocRcuYoo .plan-title {
+  color: #232323;
 }
 .cid-qKb4KN4uH9 {
   padding-top: 30px;
